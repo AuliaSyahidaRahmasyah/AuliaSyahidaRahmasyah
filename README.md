@@ -12,7 +12,8 @@
 - 🔹 Jira, Git, GitHub
 - 🔹 Manual & Automated Testing
 
-## 📂 Portfolio Highlights
+## 📂 Portofolio Highlights
+- https://auliasyahidarahmasyah.github.io/Portofolio-Aulia/
 - [SpeakOut Cypress UI Tests](https://github.com/username/speakout-cypress-ui-tests) – UI automation project using Cypress
 - [SpeakOut Selenium UI Tests](https://github.com/AuliaSyahidaRahmasyah/speakout-selenium-ui-tests) - UI automation project using Selenium
 - [Manual Test Cases + Jira Docs](https://github.com/username/manual-testcases-jira) – Manual testing documentation & Jira evidence *(Coming Soon)*
