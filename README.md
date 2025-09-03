@@ -1,22 +1,29 @@
 # 👋 Hi there, I'm Aulia Syahida Rahmasyah!
 
-💻 **QA Automation Enthusiast**  
-🧪 Skilled in **Cypress**, **Selenium**, and **Manual Testing**  
-🗂️ Familiar with **Test Case Documentation**, **Jira**, and QA Workflow  
-🌱 Currently learning **Katalon**, **Jira**,  **API Automation**, and continuously improving  
-🚀 Passionate about ensuring product quality through automation and collaboration
+💻 Junior QA Engineer / QA Automation Enthusiast
+🚀 Passionate about ensuring product quality through automation and collaboration.
 
-## 🧰 Tech Stack
-- 🔹 Cypress, Selenium, Postman
-- 🔹 JavaScript, HTML, CSS
-- 🔹 Jira, Git, GitHub
-- 🔹 Manual & Automated Testing
+## 🧰 Skills
+- **Quality Assurance & Testing:**  
+  Manual Testing (Functional / Regression / UAT / Smoke / Sanity)  
+  Automation Testing (Cypress – hands-on, Selenium & Katalon – currently learning)  
+  Performance Testing (JMeter – basic understanding)  
+  Security Testing (basic knowledge)  
+
+- **Database & Scripting:**  
+  Basic SQL (CRUD queries), JavaScript (for automation & web testing)  
+
+- **Tools & Documentation:**  
+  Microsoft Excel / Word / PowerPoint  
+  Test Case Design & Bug Reporting, Jira, Git, GitHub  
 
 ## 📂 Portofolio Highlights
 - https://auliasyahidarahmasyah.github.io/Portofolio-Aulia/
 - [SpeakOut Cypress UI Tests](https://github.com/username/speakout-cypress-ui-tests) – UI automation project using Cypress
 - [SpeakOut Selenium UI Tests](https://github.com/AuliaSyahidaRahmasyah/speakout-selenium-ui-tests) - UI automation project using Selenium
-- [Manual Test Cases + Jira Docs](https://github.com/username/manual-testcases-jira) – Manual testing documentation & Jira evidence *(Coming Soon)*
+- Manual Test Cases + Jira Docs – Manual testing documentation & Jira evidence *(Coming Soon)*
+- Katalon Automation Tests – *(In Progress)*
+- JMeter Performance Tests – *(In Progress)*
 
 ## 📫 Let's Connect
 - 📧 Email: auliasyahida1912@gmail.com  
